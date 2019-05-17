@@ -1,17 +1,31 @@
-Installing the app:
-npm install
-Running the application
-npm start -This will start on port 3003, this is configured in webpack.config-dev.js
-Libraries:
-    For input elements used bootstrap
-    Font: Roboto
-    Icons: Font Awesome and material UI
-    Custom CSS in style.css
-    HTML template -> template.html -This is configured in webpack.config-dev.js. HtmlWebpackPlugin.
-    entry point is index.jsx.
-    css and images are in assets and this is configured in webpack to provide access.
-Frameworks:
-    Bootstrap
-    React
-    Webpack for compiling and transpiling the code.
-    webpack dev server for running the application on server.
+Installing the app:<br>
+npm install<br>
+Running the application<br>
+npm start -This will start on port 3003, this is configured in webpack.config-dev.js<br><br>
+Libraries:<br>
+    For input elements used bootstrap<br>
+    Font: Roboto<br>
+    Icons: Font Awesome and material UI<br>
+    entry point is index.jsx.<br>
+    css and images are in assets and this is configured in webpack to provide access.<br><br>
+Frameworks:<br>
+    Bootstrap<br>
+    React<br>
+    Webpack for compiling and transpiling the code.<br>
+    webpack dev server for running the application on server.<br><br>
+Components:<br>
+    checkout-options<br>
+    product-description<br>
+    product-header<br>
+    product-image-wrapper<br>
+    product-image-wrapper<br>
+    select-menu-options<br><br>
+HTML main Page:<br>
+     template.html -This is configured in<br>
+     webpack.config-dev.js. HtmlWebpackPlugin.<br>
+    entry point is index.jsx.<br>
+    css and images are in assets and this is configured in webpack to provide access.<br><br>
+Approch:<br>
+    - Have created modular components for future products to the website<br><br>
+Future Enhancements:<br>
+- Adding Bootstrap media queries for responsiveness<br>

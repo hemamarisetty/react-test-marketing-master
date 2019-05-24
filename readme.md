@@ -32,9 +32,9 @@ Future Enhancements:<br>
 Output:<br>
 <h1>Desktop layout Image</h1><br>
 <img src="/assets/images/Desktop_Img.jpg" alt="desktop layout"><br>
-<h1>Tablet layout Imaages</h1><br>
-<img src="/assets/images/Tablet_Img_1.jpg" alt="Tablet layout Imaages"><br>
+<h1>Tablet layout Images</h1><br>
+<img src="/assets/images/Tablet_Img_1.jpg" alt="Tablet layout Images"><br>
 <img src="/assets/images/Tablet_Img_2.jpg" alt="Tablet layout Imaages"><br>
-<h1>Phone layout Imaages</h1><br>
-<img src="/assets/images/Phone_Img_1.jpg" alt="Phone layout Imaages"><br>
+<h1>Phone layout Images</h1><br>
+<img src="/assets/images/Phone_Img_1.jpg" alt="Phone layout Images"><br>
 <img src="/assets/images/Phone_Img_2.jpg" alt="Phone layout Imaages"><br>

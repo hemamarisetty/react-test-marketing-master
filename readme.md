@@ -1,7 +1,7 @@
 Installing the app:<br>
 npm install<br>
 Running the application<br>
-npm start -This will start on port 3003, this is configured in webpack.config-dev.js<br><br>
+npm start -This will start on port 3003, http://localhost:3003, this is configured in webpack.config-dev.js<br><br>
 Libraries:<br>
     For input elements used bootstrap<br>
     Font: Roboto<br>
@@ -29,3 +29,12 @@ Approch:<br>
     - Have created modular components for future products to the website<br><br>
 Future Enhancements:<br>
 - Adding Bootstrap media queries for responsiveness<br>
+Output:<br>
+<h1>Desktop layout Image</h1><br>
+<img src="/assets/images/Desktop_Img.jpg" alt="desktop layout"><br>
+<h1>Tablet layout Imaages</h1><br>
+<img src="/assets/images/Tablet_Img_1.jpg" alt="Tablet layout Imaages"><br>
+<img src="/assets/images/Tablet_Img_2.jpg" alt="Tablet layout Imaages"><br>
+<h1>Phone layout Imaages</h1><br>
+<img src="/assets/images/Phone_Img_1.jpg" alt="Phone layout Imaages"><br>
+<img src="/assets/images/Phone_Img_2.jpg" alt="Phone layout Imaages"><br>
